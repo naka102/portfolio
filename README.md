@@ -133,4 +133,27 @@ MVP
 ・タグ編集画面
 
 ■ 機能の実装方針予定
-全国に対応するため路線図 API の使用を検討中
+フロントエンド
+　 JavaScript
+
+バックエンド
+　 Rails 7.0 系
+
+ユーザー登録認証
+　 sorcery
+
+DB
+　 PostgreSQL
+
+インフラ
+　 Heroku
+
+マルチ検索・オートコンプリート
+　 Stimulus Autocomplete
+
+駅・路線情報
+路線図は下記サイトの駅一覧と路線一覧の CSV をダウンロードできたため
+
+こちらを DB にインポートする予定
+
+https://ekidata.jp/
