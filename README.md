@@ -167,4 +167,4 @@ Stimulus
 RMagick(imageMagick)
 
 画面遷移図の URL
-https://www.figma.com/file/XOSJvc31ukUCifJgEQoegH/%E7%84%A1%E9%A1%8C?type=design&node-id=0%3A1&mode=design&t=0SOCX1rEqB8jzNGr-1
+https://www.figma.com/file/XOSJvc31ukUCifJgEQoegH/%E7%84%A1%E9%A1%8C?type=design&node-id=0%3A1&mode=design&t=xaNZzNWmudd7W6d0-1
